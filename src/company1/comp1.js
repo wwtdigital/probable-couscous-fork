@@ -1,0 +1,1 @@
+console.log('work for company 1');
